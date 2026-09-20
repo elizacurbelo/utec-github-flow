@@ -8,4 +8,3 @@ Today, the repository is used by small groups to simulate how a team would maint
 
 
 This history section has been updated as part of collaborative work.
-
