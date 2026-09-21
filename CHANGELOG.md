@@ -1,4 +1,4 @@
-v1.1.0
+V1.1.0
 
 \-Update documentation files including introduction and history.
 
