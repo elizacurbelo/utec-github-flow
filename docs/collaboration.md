@@ -6,3 +6,4 @@ Successful collaboration relies on shared goals and effective conflict resolutio
 Collaboration requires clear communication and well-defined responsibilities.
 main
 
+ 
