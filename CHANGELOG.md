@@ -1,6 +1,3 @@
-## \## v1.1.o
-
-\- Added introduction documentation to the project.
-
-\- Fixed collaboration conflicts in dosc successfully.
-
+## v1.1.0  
+- Added introduction.  
+- Fixed collabortion conflict. 
